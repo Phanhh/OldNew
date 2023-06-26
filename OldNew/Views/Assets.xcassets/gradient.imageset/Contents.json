@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "white-blue-gradient-linear-1920x1080-c2-87cefa-ffffff-a-345-f-14.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
